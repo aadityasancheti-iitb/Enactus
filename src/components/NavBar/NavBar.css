@@ -1,0 +1,28 @@
+.enactus-navbar {
+    background-color: white !important;
+    border-bottom: 2px solid #FFD700;
+    /* Yellow color for the border */
+}
+
+.enactus-brand {
+    color: black !important;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.enactus-link {
+    color: black !important;
+    font-size: 1rem;
+    margin-left: 1rem;
+    transition: color 0.3s ease;
+}
+
+.enactus-link:hover {
+    color: #FFD700 !important;
+    /* Yellow color for hover effect */
+}
+
+.enactus-link.active {
+    color: #FFD700 !important;
+    /* Yellow color for active link */
+}

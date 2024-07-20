@@ -1,0 +1,25 @@
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 2rem 0;
+}
+
+.footer-logo {
+    width: 100px;
+    margin-bottom: 1rem;
+}
+
+.footer-highlight {
+    color: #FFD700;
+    font-size:larger;
+    /* Enactus yellow */
+     font-weight: bold;
+}
+.footer-highlight2{
+    color: #fff;
+    font-size: larger;
+    font-weight:bold;
+}
+.footer-icons{
+    color:#FFD700
+}

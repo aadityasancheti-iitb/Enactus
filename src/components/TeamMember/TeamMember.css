@@ -1,0 +1,14 @@
+/* src/components/TeamMember.css */
+.team-member-card {
+    transition: transform 0.2s;
+}
+
+.team-member-card:hover {
+    transform: translateY(-10px);
+}
+
+.team-member-photo {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+}
