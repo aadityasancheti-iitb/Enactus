@@ -1,6 +1,6 @@
 /* src/components/TeamMember.css */
 .team-member-card {
-    transition: transform 0.2s;
+    transition: transform 1s;
 }
 
 .team-member-card:hover {
@@ -8,7 +8,7 @@
 }
 
 .team-member-photo {
-    width: 120px;
-    height: 120px;
+    width: 160px;
+    height: 160px;
     object-fit: cover;
 }

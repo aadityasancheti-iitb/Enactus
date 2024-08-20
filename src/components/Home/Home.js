@@ -163,6 +163,7 @@
 // };
 
 // export { Home };
+// Dont delete it doesnt have the FadeInSection.js and last two css function
 
 import React, { useState } from "react";
 import { Carousel, Container, Row, Col, Card } from "react-bootstrap";

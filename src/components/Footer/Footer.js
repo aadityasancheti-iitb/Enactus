@@ -129,7 +129,7 @@ const Footer = () => {
                 <FaInstagram size={32} />
               </a>
               <a
-                href="https://www.linkedin.com"
+                href="https://www.linkedin.com/company/enactus-iit-bombay/mycompany/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
