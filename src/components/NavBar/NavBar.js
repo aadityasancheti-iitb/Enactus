@@ -24,7 +24,7 @@ const NavBar = () => {
               Team
             </Nav.Link>
             <Nav.Link as={NavLink} to="/contact" className="enactus-link">
-              Contact
+              Contact Us
             </Nav.Link>
             <Nav.Link as={NavLink} to="/blogs" className="enactus-link">
               Blogs

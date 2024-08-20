@@ -14,7 +14,7 @@ function App() {
     <>
       <NavBar />
 
-      <div style={{ marginTop: "63px" }}>
+      <div style={{ marginTop: "100px" }}>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/team" element={<Team />} />
