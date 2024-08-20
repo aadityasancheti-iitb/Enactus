@@ -5,7 +5,7 @@
 }
 
 .footer-logo {
-    width: 100px;
+    width: 390px;
     margin-bottom: 1rem;
 }
 
@@ -20,6 +20,31 @@
     font-size: larger;
     font-weight:bold;
 }
-.footer-icons{
-    color:#FFD700
+.footer-icons a {
+    color: #FFD700;
+    /* Enactus yellow */
+    margin-right: 10px;
+    /* Optional: spacing between icons */
+}
+
+.footer-icons a:hover {
+    color: #FFA500;
+    /* Optional: A different yellow shade on hover */
+}
+
+
+
+.footer-email {
+    margin-top: 1rem;
+    color: #fff;
+    font-size: 16px;
+}
+
+.footer-email a {
+    color: #FFD700;
+    text-decoration: none;
+}
+
+.footer-email a:hover {
+    text-decoration: underline;
 }

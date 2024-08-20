@@ -26,3 +26,10 @@
     color: #FFD700 !important;
     /* Yellow color for active link */
 }
+.enactus-logo {
+    width: 125px;
+   
+    /* Adjust width as needed */
+    height: auto;
+    /* Maintain aspect ratio */
+}

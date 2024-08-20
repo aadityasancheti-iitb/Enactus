@@ -10,24 +10,28 @@
 //         <Row>
 //           <Col md={4} className="footer-left">
 //             <img
-//               src="https://via.placeholder.com/100x100"
+//               src="/logo_white.png"
 //               alt="Enactus Logo"
 //               className="footer-logo"
 //             />
 //             <p>
-//               <span className="footer-highlight">ENtrepreneurial</span>
+//               <span>
+//                 <span className="footer-highlight">En</span>
+//                 <span className="footer-highlight2">trepreneurial</span>
+//               </span>
 //               <br />
 //               Having the perspective to see an opportunity and the talent to
 //               create value from that opportunity.
 //             </p>
 //             <p>
-//               <span className="footer-highlight">ACTion</span>
+//               <span className="footer-highlight">Act</span>
+//               <span className="footer-highlight2">ion</span>
 //               <br />
 //               The willingness to do something and the commitment to see it
 //               through even when the outcome is not guaranteed.
 //             </p>
 //             <p>
-//               <span className="footer-highlight">US</span>
+//               <span className="footer-highlight">Us</span>
 //               <br />A group of people who see themselves connected in some
 //               important way; individuals that are part of a greater whole.
 //             </p>
@@ -43,7 +47,7 @@
 //             </p>
 //             <div className="footer-icons">
 //               <a
-//                 href="https://www.instagram.com"
+//                 href="https://www.instagram.com/enactusiitb/"
 //                 target="_blank"
 //                 rel="noopener noreferrer"
 //               >
@@ -57,6 +61,10 @@
 //                 <FaLinkedin size={32} />
 //               </a>
 //             </div>
+//             <p className="footer-email">
+//               Contact us:{" "}
+//               <a href="mailto:enactusiitb@gmail.com">enactusiitb@gmail.com</a>
+//             </p>
 //           </Col>
 //         </Row>
 //       </Container>
@@ -78,10 +86,12 @@ const Footer = () => {
         <Row>
           <Col md={4} className="footer-left">
             <img
-              src="https://via.placeholder.com/100x100"
+              src="/logo_white.png"
               alt="Enactus Logo"
               className="footer-logo"
             />
+          </Col>
+          <Col md={4} className="footer-center">
             <p>
               <span>
                 <span className="footer-highlight">En</span>
@@ -103,9 +113,6 @@ const Footer = () => {
               <br />A group of people who see themselves connected in some
               important way; individuals that are part of a greater whole.
             </p>
-          </Col>
-          <Col md={4} className="footer-center">
-            <h4>Enactus IIT Bombay</h4>
           </Col>
           <Col md={4} className="footer-right">
             <h4>Connect with us</h4>
@@ -129,6 +136,10 @@ const Footer = () => {
                 <FaLinkedin size={32} />
               </a>
             </div>
+            <p className="footer-email">
+              Contact us:{" "}
+              <a href="mailto:enactusiitb@gmail.com">enactusiitb@gmail.com</a>
+            </p>
           </Col>
         </Row>
       </Container>
