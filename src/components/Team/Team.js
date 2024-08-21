@@ -165,7 +165,7 @@ const teamMembers = [
     intro: "",
   },
   {
-    photo: "https://via.placeholder.com/150",
+    photo: "/riddhi.jpeg",
     name: "Riddhi Shah",
     title: "President",
     intro: "                ",
@@ -178,13 +178,13 @@ const teamMembers = [
   },
   // Add 11 function heads
   {
-    photo: "https://via.placeholder.com/150",
+    photo: "/arushi.jpeg",
     name: "Arushi Bansal",
     title: "R&D Head",
     intro: "",
   },
   {
-    photo: "https://via.placeholder.com/150",
+    photo: "/ayush.jpeg",
     name: "Ayush Narwal",
     title: "R&D Head",
     intro: "",
@@ -214,7 +214,7 @@ const teamMembers = [
     intro: "",
   },
   {
-    photo: "https://via.placeholder.com/150",
+    photo: "/shubhang.jpeg",
     name: "Shubhang Shangvi",
     title: "Business Head",
     intro: "",
@@ -232,7 +232,7 @@ const teamMembers = [
     intro: "",
   },
   {
-    photo: "https://via.placeholder.com/150",
+    photo: "/isha.jpeg",
     name: "Isha Laddha",
     title: "Outreach & Initiative Head",
     intro: "",
