@@ -4,7 +4,9 @@ export const Blogs = () => {
   return (
     <div style={{ backgroundColor: "white", color: "black" }}>
       {" "}
-      Coming Soon !!
+      <center>
+        <h1>Coming Soon !!</h1>
+      </center>
     </div>
   );
 };
