@@ -31,9 +31,10 @@
 }
 
 .about-us-text h2 {
-    color: #FFD700;
+    color: #000000;
     /* Enactus yellow */
     font-size: 2rem;
+    
     font-weight: bold;
     margin-bottom: 1rem;
 }

@@ -82,9 +82,9 @@ const Contact = () => {
             we’re here and ready to engage.
           </p>
           <div className="contact-details">
-            <p>
+            {/* <p>
               <strong>Phone:</strong> +91
-            </p>
+            </p> */}
             <p>
               <strong>Email:</strong> enactusiitb@gmail.com
             </p>
