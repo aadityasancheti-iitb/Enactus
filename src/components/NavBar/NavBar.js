@@ -9,10 +9,11 @@ const NavBar = () => {
       <Container>
         <Navbar.Brand as={NavLink} to="/" className="enactus-brand">
           <img
-            src="/enactuslogo.png"
+            src="/enactus.png"
             alt="enactus iitb logo"
             className="enactus-logo"
           />
+          <div className="logo-text">Indian Institute of Technology Bombay</div>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">

@@ -1,5 +1,5 @@
 .enactus-navbar {
-    background-color: white !important;
+    background-color: #333!important;
     border-bottom: 2px solid #FFD700;
     /* Yellow color for the border */
 }
@@ -11,8 +11,8 @@
 }
 
 .enactus-link {
-    color: black !important;
-    font-size: 1rem;
+    color: rgb(255, 255, 255) !important;
+    font-size: 2rem;
     margin-left: 1rem;
     transition: color 0.3s ease;
 }
@@ -27,9 +27,12 @@
     /* Yellow color for active link */
 }
 .enactus-logo {
-    width: 120px;
+    width: 200px;
    
     /* Adjust width as needed */
     height: auto;
     /* Maintain aspect ratio */
+}
+.logo-text{
+    color:rgb(255, 255, 255);
 }

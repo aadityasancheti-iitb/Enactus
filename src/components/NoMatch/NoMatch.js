@@ -1,5 +1,9 @@
 import React from "react";
-
+import "./NoMatch.css";
 export const NoMatch = () => {
-  return <div>Page Not Found</div>;
+  return (
+    <center>
+      <div className="text">Page Not Found</div>
+    </center>
+  );
 };
