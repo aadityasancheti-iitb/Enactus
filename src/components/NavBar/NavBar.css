@@ -7,7 +7,8 @@
 .enactus-brand {
     color: black !important;
     font-weight: bold;
-    font-size: 1.5rem;
+    font-size: 1.0rem; 
+     /* original 1.5 */
 }
 
 .enactus-link {
